@@ -3,7 +3,7 @@
 Modern dark UI website template with smooth animations and cinematic design.
 
 ## 🔗 Live Preview
-
+https://johnyisbackk.github.io/cinematic-website-template/
 
 ---
 
