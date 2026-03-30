@@ -44,7 +44,7 @@ https://johnyisbackk.github.io/cinematic-website-template/
 
 ## 💰 Get Full Template
 
-👉 https://your-gumroad-link.com
+👉 [https://your-gumroad-link.com](https://johnycodes.gumroad.com/l/cinematic-template)
 
 ---
 
