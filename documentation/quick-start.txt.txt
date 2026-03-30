@@ -1,0 +1,29 @@
+QUICK START
+
+1. Open the project folder
+2. Open index.html in your browser
+
+CUSTOMIZATION
+
+– Text:
+Edit directly inside index.html
+
+– Videos:
+Replace files inside /assets/videos
+
+– Images:
+Replace files inside /assets/images
+
+– Styles:
+Edit css/style.css
+
+– Animations:
+Edit js/script.js
+
+NOTES
+
+– No frameworks required
+– Works in all modern browsers
+– Fully responsive
+
+You're ready to go 🚀
